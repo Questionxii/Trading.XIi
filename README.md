@@ -1,4 +1,4 @@
-# Trading.XIi
+# BOTS
 
 1. Blue Boxes = Momentum / RSI Trigger Zones
 
