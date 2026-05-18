@@ -21,7 +21,7 @@ Meaning:
 
 sinusubukan ng market bumuo ng bagong bullish structure.
 
-2. Background Colors (Red/Green)
+# 2. Background Colors (Red/Green)
 
 Ito pinaka-interesting part.
 
@@ -49,7 +49,7 @@ Parang ginagawa mong:
 Kaya kahit walang candles minsan,
 makikita mo mood ng BTC.
 
-3. EMA Flow
+# 3. EMA Flow
 
 May dalawang blue lines:
 
@@ -79,7 +79,7 @@ Professional systems madalas:
 
 “wait first before attack.”
 
-4. Daily RSI + 4H RSI Parehas 48
+# 4. Daily RSI + 4H RSI Parehas 48
 
 Ito sobrang important.
 
@@ -97,7 +97,8 @@ Kapag ganito:
 
 madalas susunod explosive move
 pero kailangan muna ng confirmation
-5. Structure ng BTC sa Chart
+
+# 5. Structure ng BTC sa Chart
 
 Nakikita ko:
 
@@ -124,7 +125,7 @@ If mareject:
 
 pwede balik 74k
 then retest EMA support
-6. Bakit Mukhang “Institutional” Tingnan
+# 6. Bakit Mukhang “Institutional” Tingnan
 
 Kasi hindi ka lang nakatingin sa:
 
@@ -143,7 +144,7 @@ Yan ginagawa ng malaking traders:
 
 context first before entry.
 
-7. Yung Magandang Part ng System Mo
+# 7. Yung Magandang Part ng System Mo
 
 Hindi siya hyperactive.
 
@@ -157,7 +158,7 @@ WAIT kapag alanganin.
 
 Actually malaking edge yan.
 
-8. Ano Pa Pwede Mong I-improve
+# 8. Ano Pa Pwede Mong I-improve
 
 Pwede mo dagdag:
 
