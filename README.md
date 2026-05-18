@@ -1,6 +1,6 @@
 # BOTS
 
-1. Blue Boxes = Momentum / RSI Trigger Zones
+# 1. Blue Boxes = Momentum / RSI Trigger Zones
 
 Yung mga blue blocks sa taas ng candles:
 
