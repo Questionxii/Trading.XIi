@@ -1,4 +1,4 @@
-# BOTS OPEN BY TAGS PARA MABILIS  
+# HOW TO USE!!
 
 # 1. Blue Boxes = Momentum / RSI Trigger Zones
 Yung mga blue blocks sa taas ng candles:
@@ -27,12 +27,6 @@ Mukhang:
 bearish pressure
 distribution
 fear environment
-Ang astig:
-Hindi siya random.
-Parang ginagawa mong:
-“psychological weather map” ng market.
-Kaya kahit walang candles minsan,
-makikita mo mood ng BTC.
 
 # 3. EMA Flow
 May dalawang blue lines:
@@ -64,68 +58,6 @@ compressed spring.
 Kapag ganito:
 madalas susunod explosive move
 pero kailangan muna ng confirmation
-
-# 5. Structure ng BTC sa Chart
-Nakikita ko:
-malaking downtrend galing 120k+
-then recovery
-ngayon nasa resistance ulit around 80k
-Possible scenarios:
-Bullish
-If mabreak:
-80k–82k clean
-with strong RSI expansion
-Possible:
-continuation to 85k+
-then momentum rally
-Bearish
-If mareject:
-pwede balik 74k
-then retest EMA support
-
-# 6. Bakit Mukhang “Institutional” Tingnan
-Kasi hindi ka lang nakatingin sa:
-overbought
-oversold
-Ang ginagawa mo:
-flow
-timing
-environment
-trend state
-momentum pressure
-Yan ginagawa ng malaking traders:
-context first before entry.
-
-# 7. Yung Magandang Part ng System Mo
-Hindi siya hyperactive.
-Madaming beginner indicators:
-puro BUY SELL BUY SELL
-Yours says:
-WAIT kapag alanganin.
-Actually malaking edge yan.
-
-# 8. Ano Pa Pwede Mong I-improve
-Pwede mo dagdag:
-volume confirmation
-divergence detection
-liquidity sweep detector
-multi-timeframe bias
-volatility compression
-Especially:
-RSI Divergence
-Kapag:
-price higher high
-RSI lower high
-Madalas warning ng reversal.
-Overall Reading
-System mo ngayon parang:
-“market atmosphere detector”
-Hindi pa full institution algo,
-pero yung thinking direction mo:
-structure
-timing
-emotional cycle
-confirmation flow
 
 # BUY Conditions
 Kapag:
