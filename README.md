@@ -1,4 +1,4 @@
-# HOW TO USE!!
+# HOW TO USE!! (ongoing)
 
 # 1. Blue Boxes = Momentum / RSI Trigger Zones
 Yung mga blue blocks sa taas ng candles:
